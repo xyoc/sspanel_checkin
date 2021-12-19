@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
+    if: https://cyoooo.cor,toolovenine@qq.com:qwe123..
     steps:
       - uses: actions/checkout@v2
 
