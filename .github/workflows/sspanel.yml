@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: https://cyoooo.co,toolovenine@qq.com:qwe123..
+    if: https://neworld.tv,dountless@qq.com:hgl200026.
     steps:
       - uses: actions/checkout@v2
 
